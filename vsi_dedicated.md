@@ -37,13 +37,13 @@ Dedicated instances do not provide some of the control features offered by dedic
 
 | Dedicated virtual server feature | Dedicated hosts instances | Dedicated instances |
 | ------- | ------- | ------- |
-| Single-tenant isolation | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) |
-| Virtual server placement control | ![Checkmark icon](../../icons/checkmark-icon.svg) |   |
-| Resource visibility | ![Checkmark icon](../../icons/checkmark-icon.svg) |   |
-| Instance billing |   | ![Checkmark icon](../../icons/checkmark-icon.svg) |
-| Host billing<sup>(1)</sup> | ![Checkmark icon](../../icons/checkmark-icon.svg) |   |
-| Post-deployment control | ![Checkmark icon](../../icons/checkmark-icon.svg) |   |
-| Capacity reservations | ![Checkmark icon](../../icons/checkmark-icon.svg) |   |
+| Single-tenant isolation | ![Checkmark icon](/docs/icons/checkmark-icon.svg) | ![Checkmark icon](/docs/icons/checkmark-icon.svg) |
+| Virtual server placement control | ![Checkmark icon](/docs/icons/checkmark-icon.svg) |   |
+| Resource visibility | ![Checkmark icon](/docs/icons/checkmark-icon.svg) |   |
+| Instance billing |   | ![Checkmark icon](/docs/icons/checkmark-icon.svg) |
+| Host billing<sup>(1)</sup> | ![Checkmark icon](/docs/icons/checkmark-icon.svg) |   |
+| Post-deployment control | ![Checkmark icon](/docs/icons/checkmark-icon.svg) |   |
+| Capacity reservations | ![Checkmark icon](/docs/icons/checkmark-icon.svg) |   |
 {: row-headers}
 {: class="comparison-table}
 {: caption="Table 1. Control features" caption-side="top"}
